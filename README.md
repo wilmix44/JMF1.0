@@ -65,11 +65,9 @@ eg)   WTALLY  is  designed  Using   JMF  framework
 
 i)  It  helps   developers   to  develop  a   enterprise webapplication  as  fast  as   could.
 
-j)  When  used    with  OAKJAVA7   can   eliminate   the  demerits   of  java/j2ee.
+j)  Easy  to   Debug  and  Learnable  framework.
 
-Provide  much  more     code security  when  used  with OAKJAVA7.
-
-k)  Easy  to   Debug  and  Learnable  framework.
+k)  used  only  with  Jdk versions...
 
 
 EXAMPLE-1: index.JMF
